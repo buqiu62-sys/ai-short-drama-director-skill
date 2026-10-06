@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI短剧分镜 · 实验版"
+  short_description: "拍法自由，镜头细节按完成条件展开；先做整场声画，再整理Clip并逐镜核验"
+  default_prompt: "使用 $ai-manju-director-scene-first 按画面细节硬性完成条件将锁定剧本写成完整整场声画稿，再整理逐Clip视频提示词，实际执行两轮自主整体复核并另存逐镜完成度证据。"

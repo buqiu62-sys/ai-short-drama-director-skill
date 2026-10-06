@@ -1,0 +1,8 @@
+Copyright (C) 2026 buqiu62-sys and contributors
+
+SPDX-License-Identifier: GPL-3.0-only
+
+This distribution is licensed under GNU GPL version 3 only.
+The editable source consists of the Markdown instructions, YAML metadata,
+Python helper scripts, and accompanying documentation in this package.
+See LICENSE for the complete license terms.
